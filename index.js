@@ -5,5 +5,3 @@ function attributesToPhrase(array) {
 
 
 
-function matchName(array, string) { 
-  return array.filter(name => name.name === string);
