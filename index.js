@@ -10,6 +10,6 @@ function attributesToPhrase(array) {
   return arrary.map(driver => `${driver.name} is from ${driver.hometown}`);
 }
 
-
+return collection.map(person => `${person.name} is from ${person.hometown}`);
 
 
